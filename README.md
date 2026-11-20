@@ -1,4 +1,4 @@
-# Bank Data Center – Cisco Packet Tracer Lab
+# Bank Network – Cisco Packet Tracer Lab
 
 This project is a production-style bank data center network built in Cisco Packet Tracer 8.1, designed to simulate a secure and scalable enterprise banking infrastructure using advanced Cisco networking technologies.
 
